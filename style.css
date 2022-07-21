@@ -1,0 +1,81 @@
+/* Navigation Bar*/
+
+.navbar{
+}
+
+.primeira-faixa{
+background-color: #C37B89;
+}
+
+.navbar-brand{
+  font-family: "Roboto";
+  font-size: 2.2rem;
+  font-weight: bold;
+  padding-bottom: 4.5rem;
+  padding-left: 1rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Roboto"
+  font-weight: light;
+}
+
+
+/* Segunda Faixa*/
+
+.segunda-faixa{
+background-color:
+}
+
+.title-image{
+  position: relative;
+  width: 100%;
+  border-radius:
+
+}
+
+h1 {
+  font-family: "Roboto";
+  position: absolute;
+  color: white;
+  top: 20%;
+  left: 11%;
+}
+
+.h12{
+  font-size: 3.5rem;
+
+}
+
+/* Features*/
+
+#features{
+  background-color: #BCCC9A;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+
+}
+
+.features-topic{
+  font-family: "Roboto";
+}
+
+
+/* Terceira Faixa*/
+
+#apousada{
+  text-align: center;
+  background-color: #EAE7C6;
+  padding: 5REM;
+}
+
+.apousadaimages-img{
+  width: 65%;
+
+}
